@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<!--    <listeners>-->
+<!--        <listener class-name="com.automate.listeners.Listeners"/>-->
+<!--        <listener class-name="com.automate.listeners.AnnotationTransformer"/>-->
+<!--    </listeners>-->
+    <test name="Test On Pixel 6 Emulator">
+        <parameter name="emulator" value="yes"/>
+        <parameter name="platformName" value="android"/>
+        <parameter name="udid" value="emulator-5554"/>
+        <parameter name="deviceName" value="Pixel 6"/>
+        <parameter name="systemPort" value="7878"/>
+        <classes>
+            <class name="com.tests.LoginTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

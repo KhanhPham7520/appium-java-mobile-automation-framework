@@ -1,0 +1,55 @@
+2025-05-01 09:35:14:915 [Appium] Welcome to Appium v2.17.1 (REV 2eb614a4653421ab6e0cea27c42bbfadcad1a582)
+2025-05-01 09:35:14:916 [Appium] Non-default server args:
+2025-05-01 09:35:14:917 [Appium] { address: '127.0.0.1',
+  allowInsecure: [ 'chromedriver_autodownload' ],
+  sessionOverride: true }
+2025-05-01 09:35:14:917 [Appium] The autodetected Appium home path: /Users/phamphannhatkhanh/.appium
+2025-05-01 09:35:14:917 [Appium] Attempting to load driver uiautomator2...
+2025-05-01 09:35:14:917 [Appium] Attempting to load driver xcuitest...
+2025-05-01 09:35:14:918 [Appium] Attempting to load driver espresso...
+2025-05-01 09:35:14:919 [Appium] Requiring driver at /Users/phamphannhatkhanh/.appium/node_modules/appium-xcuitest-driver/build/index.js
+2025-05-01 09:35:14:921 [Appium] Requiring driver at /Users/phamphannhatkhanh/.appium/node_modules/appium-espresso-driver/build/index.js
+2025-05-01 09:35:14:921 [Appium] Requiring driver at /Users/phamphannhatkhanh/.appium/node_modules/appium-uiautomator2-driver/build/index.js
+2025-05-01 09:35:15:297 [Appium] EspressoDriver has been successfully loaded in 0.379s
+2025-05-01 09:35:15:676 [Appium] AndroidUiautomator2Driver has been successfully loaded in 0.758s
+2025-05-01 09:35:16:086 [Appium] XCUITestDriver has been successfully loaded in 1.168s
+2025-05-01 09:35:16:094 [Appium] Appium REST http interface listener started on http://127.0.0.1:4723
+2025-05-01 09:35:16:094 [Appium] Available drivers:
+2025-05-01 09:35:16:094 [Appium]   - uiautomator2@4.1.5 (automationName 'UiAutomator2')
+2025-05-01 09:35:16:094 [Appium]   - xcuitest@9.0.0 (automationName 'XCUITest')
+2025-05-01 09:35:16:094 [Appium]   - espresso@4.1.4 (automationName 'Espresso')
+2025-05-01 09:35:16:094 [Appium] No plugins have been installed. Use the "appium plugin" command to install the one(s) you want to use.
+2025-05-01 09:35:16:368 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:16:374 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:16:377 [HTTP] <-- GET /wd/hub/status 404 7 ms - 211 
+2025-05-01 09:35:16:706 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:16:714 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:16:715 [HTTP] <-- GET /wd/hub/status 404 9 ms - 211 
+2025-05-01 09:35:17:043 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:17:043 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:17:044 [HTTP] <-- GET /wd/hub/status 404 1 ms - 211 
+2025-05-01 09:35:17:372 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:17:373 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:17:374 [HTTP] <-- GET /wd/hub/status 404 2 ms - 211 
+2025-05-01 09:35:17:700 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:17:701 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:17:703 [HTTP] <-- GET /wd/hub/status 404 2 ms - 211 
+2025-05-01 09:35:18:030 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:18:031 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:18:032 [HTTP] <-- GET /wd/hub/status 404 1 ms - 211 
+2025-05-01 09:35:18:355 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:18:356 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:18:357 [HTTP] <-- GET /wd/hub/status 404 1 ms - 211 
+2025-05-01 09:35:18:685 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:18:685 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:18:686 [HTTP] <-- GET /wd/hub/status 404 1 ms - 211 
+2025-05-01 09:35:19:014 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:19:014 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:19:015 [HTTP] <-- GET /wd/hub/status 404 1 ms - 211 
+2025-05-01 09:35:19:340 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:19:341 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:19:343 [HTTP] <-- GET /wd/hub/status 404 2 ms - 211 
+2025-05-01 09:35:19:666 [HTTP] --> GET /wd/hub/status {}
+2025-05-01 09:35:19:666 [HTTP] No route found for /wd/hub/status
+2025-05-01 09:35:19:667 [HTTP] <-- GET /wd/hub/status 404 1 ms - 211 
+2025-05-01 09:35:19:889 [Appium] Received SIGINT - shutting down
