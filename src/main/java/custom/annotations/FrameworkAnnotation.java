@@ -1,6 +1,6 @@
 package custom.annotations;
 
-import com.automate.enums.CategoryType;
+import com.khanhppn.enums.CategoryType;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

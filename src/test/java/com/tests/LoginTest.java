@@ -1,10 +1,10 @@
 package com.tests;
 
 import base.BaseTest;
-import com.automate.constants.StringConstants;
-import com.automate.entity.TestData;
-import com.automate.enums.CategoryType;
-import com.automate.pages.LoginPage;
+import com.khanhppn.constants.StringConstants;
+import com.khanhppn.model.TestData;
+import com.khanhppn.enums.CategoryType;
+import com.khanhppn.pages.LoginPage;
 import custom.annotations.FrameworkAnnotation;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;

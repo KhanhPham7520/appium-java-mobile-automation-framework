@@ -1,12 +1,12 @@
 package base;
 
-import com.automate.driver.factory.DriverFactory;
-import com.automate.driver.manager.DeviceManager;
-import com.automate.driver.manager.DriverManager;
-import com.automate.driver.manager.PlatformManager;
-import com.automate.enums.MobilePlatformName;
-import com.automate.utils.AppiumServerManager;
-import com.automate.utils.screenRecording.ScreenRecordingService;
+import com.khanhppn.driver.factory.DriverFactory;
+import com.khanhppn.driver.manager.DeviceManager;
+import com.khanhppn.driver.manager.DriverManager;
+import com.khanhppn.driver.manager.PlatformManager;
+import com.khanhppn.enums.MobilePlatformName;
+import com.khanhppn.utils.AppiumServerManager;
+import com.khanhppn.utils.screenRecording.ScreenRecordingService;
 import org.testng.ITestResult;
 import org.testng.annotations.*;
 

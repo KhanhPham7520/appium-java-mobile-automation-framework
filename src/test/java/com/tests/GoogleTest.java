@@ -1,19 +1,19 @@
 package com.tests;
 
 import base.BaseTest;
-import com.automate.constants.StringConstants;
-import com.automate.driver.manager.DriverManager;
-import com.automate.entity.TestData;
-import com.automate.enums.CategoryType;
-import com.automate.enums.ConfigJson;
-import com.automate.pages.GoogleSearchPage;
+import com.khanhppn.constants.StringConstants;
+import com.khanhppn.driver.manager.DriverManager;
+import com.khanhppn.model.TestData;
+import com.khanhppn.enums.CategoryType;
+import com.khanhppn.enums.ConfigJson;
+import com.khanhppn.pages.GoogleSearchPage;
 import custom.annotations.FrameworkAnnotation;
 import lombok.AccessLevel;
 import lombok.NoArgsConstructor;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import static com.automate.utils.configs.JsonUtils.getConfig;
+import static com.khanhppn.utils.configs.JsonUtils.getConfig;
 
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public final class GoogleTest extends BaseTest {
